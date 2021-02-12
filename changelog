@@ -1,0 +1,45 @@
+Changelog:
+----------------------------------------------------------------
+Version:
+
+0.0.12
+    Support MacOS
+
+0.0.11
+    Resizable GUI (fix the problem in 4K monitors)
+
+0.0.10
+    MIT License is added
+
+0.0.9
+    bugfix: negative scaleX
+    newFeature: detect right path (without space)
+
+0.0.8
+    newFeature: Fur/hair hybrid Support
+    newFeature: groomable spline Support
+
+0.0.7
+    bugfix: improve speed of merging process
+    change: scene should be saved
+
+0.0.6
+    newFeature: merge SplineGRPs in Multiple cases from converting Description to SplineGRPs
+
+0.0.5
+    bugfix: Project set works fine now
+
+0.0.4
+    bugfix: rotaion. scale changed to be match in unreal
+    bugfix: Confirm dialog for asking artist to save the file before exporting
+    bugfix: Update readme file
+    bugfix: check loading plugins
+
+0.0.3
+    initial release
+
+0.0.2
+    rnd and test on different scenes
+
+0.0.1
+    initial tests
